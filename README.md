@@ -19,17 +19,9 @@
     <br>
 </h1>
 
-<a href="mailto:contact@baguettesharp.fr"><img src="https://img.shields.io/badge/Contact-Mail-f7a8d8?style=for-the-badge&logo=thunderbird&logoColor=55cdfc" alt="Contact - Mail"></a>
-
 <a href="https://github.com/coco33920/ocaml-baguettesharp-interpreter/wiki">
 <img src="https://img.shields.io/badge/Usage-Wiki-f7a8d8?style=for-the-badge">
 </a>
-<a href="https://www.baguettesharp.fr">
-    <img alt="b#" src="https://img.shields.io/badge/Website-Baguette%23-f7a8d8?style=for-the-badge">
-  </a>
-<a href="https://doc.baguettesharp.fr">
-    <img alt="b#" src="https://img.shields.io/badge/API-Documentation-f7a8d8?style=for-the-badge">
-  </a>
 <a href="https://ci.ocamllabs.io/github/coco33920/ocaml-baguettesharp-interpreter">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fci.ocamllabs.io%2Fbadge%2Fcoco33920%2Focaml-baguettesharp-interpreter%2Fmaster&logo=ocaml&style=for-the-badge">
 </a>
